@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68cfbd7b-2bcd-4dcc-8893-654484e98f85" name="Changes" comment="" />
+    <list default="true" id="68cfbd7b-2bcd-4dcc-8893-654484e98f85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JavanarProjeler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVANARGIBIATM/JavaBankAtm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javanarAtm/JavaBankAtm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVANARGIBIATM/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/javanarAtm/Task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVANARGIBIATM/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javanarAtm/Transactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVANARGIBIATM/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javanarAtm/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Urunler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Urunler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavanarDepoYonetimi/methods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +43,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="KitapciRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

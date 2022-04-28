@@ -1,6 +1,5 @@
-package JavaProjects.P11_depoYonetimi.JavanarDepoYonetimi;
+package src.JavanarDepoYonetimi;
 
-import JavaProjects.P11_depoYonetimi.depoYonetimi01.Urunler;
 
 import java.util.Collection;
 import java.util.HashMap;

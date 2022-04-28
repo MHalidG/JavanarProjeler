@@ -1,4 +1,4 @@
-package Projects.P02_javaBankATM;
+package src.javanarAtm;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

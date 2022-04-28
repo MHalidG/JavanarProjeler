@@ -1,4 +1,4 @@
-package JavaProjects.P11_depoYonetimi.JavanarDepoYonetimi;
+package src.JavanarDepoYonetimi;
 
 import java.util.Collection;
 import java.util.Set;
