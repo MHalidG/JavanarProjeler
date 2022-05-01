@@ -1,10 +1,8 @@
-package src.JavanarDepoYonetimi;
+package src.DepoYonetimi;
 
 
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Scanner;
-import java.util.Set;
 
 public class methods {
 

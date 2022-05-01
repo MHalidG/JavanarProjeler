@@ -1,6 +1,4 @@
-package src.JavanarDepoYonetimi;
-
-import src.JavanarDepoYonetimi.methods;
+package src.DepoYonetimi;
 
 public class Runner {
     public static void main(String[] args) {

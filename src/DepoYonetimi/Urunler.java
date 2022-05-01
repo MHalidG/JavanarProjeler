@@ -1,7 +1,4 @@
-package src.JavanarDepoYonetimi;
-
-import java.util.Collection;
-import java.util.Set;
+package src.DepoYonetimi;
 
 public class Urunler {
 
@@ -12,6 +9,16 @@ public class Urunler {
     private int miktarJ;
     private String birimJ;
     private String rafJ;
+    private static String ses="selamun aleykum";
+
+
+
+    public static String getSes() {return ses;}
+
+    public static void setSes(String ses) {Urunler.ses = ses;
+
+
+    }
 
     public String getUrunIsmi() {
         return urunIsmiJ;
@@ -56,6 +63,7 @@ public class Urunler {
     public Urunler(){
     }
 
+
     public Urunler( String urunIsmi, String uretici, int miktar, String birim, String raf) {
 
         this.urunIsmiJ = urunIsmi;
@@ -65,6 +73,7 @@ public class Urunler {
         this.rafJ = raf;
     }
 
+
     public String toString() {
 
         return  ", urunIsmi='" + urunIsmiJ + '\'' +
@@ -73,8 +82,6 @@ public class Urunler {
                 ", birim='"      + birimJ + '\'' +
                 ", raf='"       + rafJ + '\'' +"\n"
                 ;
-
-
 
 
     }

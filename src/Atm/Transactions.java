@@ -1,4 +1,4 @@
-package src.javanarAtm;
+package src.Atm;
 
 import java.util.Scanner;
 
