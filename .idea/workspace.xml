@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68cfbd7b-2bcd-4dcc-8893-654484e98f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Cember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/InfoProject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/OnlineGreenGrocer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Transactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/akisSemasi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/AnaMenuJavanarya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/AnaMenuMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/IslemlerMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/OkulYonetim/ssss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mixedProblems/ArrayElemanSayısı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Urunler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/Urunler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/JavaBankAtm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/JavaBankAtm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/Transactions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mixedProblems/ArrayElemanSayısı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mixedProblems/ArrayElemanSayısı.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java2022WinterTr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaBasBasic" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
