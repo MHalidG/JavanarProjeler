@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68cfbd7b-2bcd-4dcc-8893-654484e98f85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Cember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeometrikHesaplama/Task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/InfoProject" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/OnlineGreenGrocer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/Transactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Market/akisSemasi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/AnaMenuJavanarya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/AnaMenuMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/IslemlerMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/JAVANARYA/deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/OkulYonetim/ssss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mixedProblems/ArrayElemanSayısı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/Urunler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/Urunler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavanarDepoYonetimi/methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepoYonetimi/methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/JavaBankAtm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/JavaBankAtm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/Task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/Task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/Transactions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javanarAtm/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atm/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +51,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ArrayElemanSayısı">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="ArrayElemanSayısı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.mixedProblems.ArrayElemanSayısı" />
       <module name="JavanarProjeler" />
@@ -91,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KitapciRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javanar_kitapci.KitapciRunner" />
-      <module name="javanarlar" />
+    <configuration name="JavaBankAtm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Atm.JavaBankAtm" />
+      <module name="JavanarProjeler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javanar_kitapci.*" />
+          <option name="PATTERN" value="src.Atm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.JavaBankAtm" />
         <item itemvalue="Application.ArrayElemanSayısı" />
         <item itemvalue="Application.Runner (1)" />
-        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.deneme" />
-        <item itemvalue="Application.KitapciRunner" />
       </list>
     </recent_temporary>
   </component>
